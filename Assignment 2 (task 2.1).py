@@ -1,0 +1,54 @@
+Python 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:/Users/Pc/AppData/Local/Programs/Python/Python313/Assignment 2 (task2).py
+The sum of numbers from 1 to 50 is : 1
+The sum of numbers from 1 to 50 is : 3
+The sum of numbers from 1 to 50 is : 6
+The sum of numbers from 1 to 50 is : 10
+The sum of numbers from 1 to 50 is : 15
+The sum of numbers from 1 to 50 is : 21
+The sum of numbers from 1 to 50 is : 28
+The sum of numbers from 1 to 50 is : 36
+The sum of numbers from 1 to 50 is : 45
+The sum of numbers from 1 to 50 is : 55
+The sum of numbers from 1 to 50 is : 66
+The sum of numbers from 1 to 50 is : 78
+The sum of numbers from 1 to 50 is : 91
+The sum of numbers from 1 to 50 is : 105
+The sum of numbers from 1 to 50 is : 120
+The sum of numbers from 1 to 50 is : 136
+The sum of numbers from 1 to 50 is : 153
+The sum of numbers from 1 to 50 is : 171
+The sum of numbers from 1 to 50 is : 190
+The sum of numbers from 1 to 50 is : 210
+The sum of numbers from 1 to 50 is : 231
+The sum of numbers from 1 to 50 is : 253
+The sum of numbers from 1 to 50 is : 276
+The sum of numbers from 1 to 50 is : 300
+The sum of numbers from 1 to 50 is : 325
+The sum of numbers from 1 to 50 is : 351
+The sum of numbers from 1 to 50 is : 378
+The sum of numbers from 1 to 50 is : 406
+The sum of numbers from 1 to 50 is : 435
+The sum of numbers from 1 to 50 is : 465
+The sum of numbers from 1 to 50 is : 496
+The sum of numbers from 1 to 50 is : 528
+The sum of numbers from 1 to 50 is : 561
+The sum of numbers from 1 to 50 is : 595
+The sum of numbers from 1 to 50 is : 630
+The sum of numbers from 1 to 50 is : 666
+The sum of numbers from 1 to 50 is : 703
+The sum of numbers from 1 to 50 is : 741
+The sum of numbers from 1 to 50 is : 780
+The sum of numbers from 1 to 50 is : 820
+The sum of numbers from 1 to 50 is : 861
+The sum of numbers from 1 to 50 is : 903
+The sum of numbers from 1 to 50 is : 946
+The sum of numbers from 1 to 50 is : 990
+The sum of numbers from 1 to 50 is : 1035
+The sum of numbers from 1 to 50 is : 1081
+The sum of numbers from 1 to 50 is : 1128
+The sum of numbers from 1 to 50 is : 1176
+The sum of numbers from 1 to 50 is : 1225
+The sum of numbers from 1 to 50 is : 1275
